@@ -7,9 +7,8 @@
 - 간략한 라이브코딩과 직접 따라해보기/구현해보기
 
 ### 시작하기 ###
-- Clojure CLI 다운로드
-- IDE 설정
-- REPL 실행하기
+- [시작하기(MAC OS)](./docs/getting_started/MACOS.md)
+- [시작하기(WINDOWS)](./docs/getting_started/WINDOWS.md)
 
 ### 2분만에 끝내는 Clojure 문법 ###
 - Clojure 코드 읽는 법
