@@ -9,6 +9,9 @@
 ```bash
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force
 ```
+- ```clojure```를 입력했을 때 아래처럼 나오면 설치 성공
+<img src="./images/windows/clojure-success.png"></img>
+
 ### VSCODE 설치 ###
 https://code.visualstudio.com/
 
@@ -29,5 +32,5 @@ Command Palette 실행 ```cmd + shift + p```
 
 ### solution.clj 실행 ###
 - ```solution.clj``` 로 들어가서
-- evaluation ```ctrl + alt + c``` 누르고 ```enter``` 따로 누르기
-- 한 줄씩 evaluation ```ctrl + enter```
+- evaluation ```ctrl + s```
+- 한 줄씩 evaluation ```alt + enter```
