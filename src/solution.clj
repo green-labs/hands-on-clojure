@@ -1,2 +1,6 @@
 (ns solution)
-(comment)
+(comment
+  (println "Welcome to clojure world!"))
+
+
+
