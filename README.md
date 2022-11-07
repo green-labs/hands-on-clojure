@@ -17,23 +17,20 @@
 
 ### 준비운동 ###
 - 4clojure
-    - 초보
+    - 1단계
         - Functions (https://4clojure.oxal.org/#/problem/14)
         - Hello World (https://4clojure.oxal.org/#/problem/16)
         - map (https://4clojure.oxal.org/#/problem/17)
         - filter (https://4clojure.oxal.org/#/problem/18)
-    - 쉬움
+    - 2단계
         - Reverse a Sequence (https://4clojure.oxal.org/#/problem/23)
         - Sum It All Up (https://4clojure.oxal.org/#/problem/24)
         - Palindrome Detector (https://4clojure.oxal.org/#/problem/27)
         - Duplicate a Sequence (https://4clojure.oxal.org/#/problem/32)
-    - 중간
+    - 3단계
         - Rotate Sequence (https://4clojure.oxal.org/#/problem/44)
         - Juxtaposition (https://4clojure.oxal.org/#/problem/59)
         - Word Sorting (https://4clojure.oxal.org/#/problem/70)
-    - 어려움
-        - Levenshtein Distance (https://4clojure.oxal.org/#/problem/101)
-        - Gus' Quinundrum (https://4clojure.oxal.org/#/problem/125)
 
 ### 본운동 ###
 - 워들(Wordle) 만들기
