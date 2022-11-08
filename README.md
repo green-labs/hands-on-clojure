@@ -17,17 +17,17 @@
 
 ### 준비운동 ###
 - 4clojure
-    - 1단계
+    - [1단계](./src/forclojure/stage1.clj)
         - Functions (https://4clojure.oxal.org/#/problem/14)
         - Hello World (https://4clojure.oxal.org/#/problem/16)
         - map (https://4clojure.oxal.org/#/problem/17)
         - filter (https://4clojure.oxal.org/#/problem/18)
-    - 2단계
+    - [2단계](./src/forclojure/stage2.clj)
         - Reverse a Sequence (https://4clojure.oxal.org/#/problem/23)
         - Sum It All Up (https://4clojure.oxal.org/#/problem/24)
         - Palindrome Detector (https://4clojure.oxal.org/#/problem/27)
         - Duplicate a Sequence (https://4clojure.oxal.org/#/problem/32)
-    - 3단계
+    - [3단계](./src/forclojure/stage3.clj)
         - Rotate Sequence (https://4clojure.oxal.org/#/problem/44)
         - Juxtaposition (https://4clojure.oxal.org/#/problem/59)
         - Word Sorting (https://4clojure.oxal.org/#/problem/70)
