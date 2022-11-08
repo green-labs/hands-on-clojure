@@ -18,7 +18,7 @@ https://code.visualstudio.com/
 
 ### VSCODE 에서 Calva 플러그인 설치 ###
 <img src="./images/windows/calva.png"></img>
-- 설정 바꾸기 ```ctrl + ,``` 
+- 설정 바꾸기 ```ctrl + ,```
 - ```calva save``` 입력
 <img src="./images/windows/calva-save.png"></img>
 
@@ -32,5 +32,5 @@ Command Palette 실행 ```cmd + shift + p```
 
 ### solution.clj 실행 ###
 - ```solution.clj``` 로 들어가서
-- evaluation ```ctrl + s```
-- 한 줄씩 evaluation ```alt + enter```
+- 네임스페이스 로드(파일 저장시 자동으로 파일을 평가) ```ctrl + s```
+- 커서가 위치한 곳의 식(form)을 평가 ```alt + enter```
