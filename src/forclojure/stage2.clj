@@ -6,10 +6,10 @@
 ; https://4clojure.oxal.org/#/problem/23
 
 (comment
+  ;; reduce, conj, '()
   (defn answer23
     [nums]
     nums)
-
   (= (answer23 [1 2 3 4 5]) [5 4 3 2 1])
   (= (answer23 (sorted-set 5 7 2 7)) '(7 5 2))
   (= (answer23 [[1 2] [3 4] [5 6]]) [[5 6] [3 4] [1 2]]))
@@ -18,6 +18,7 @@
 ; https://4clojure.oxal.org/#/problem/24
 
 (comment
+  ;; reduce, apply, +
   (defn answer24
     [nums]
     nums)
@@ -32,6 +33,7 @@
 ; https://4clojure.oxal.org/#/problem/27
 
 (comment
+  ;; reverse, reduce, vec
   (defn answer27
     [words]
     words)
@@ -46,6 +48,7 @@
 ; https://4clojure.oxal.org/#/problem/32
 
 (comment
+  ;; map, vector, concat, apply
   (defn answer32
     [elements]
     elements)

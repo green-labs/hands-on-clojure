@@ -6,6 +6,7 @@
 ; https://4clojure.oxal.org/#/problem/44
 
 (comment
+  ;; cycle, drop, take
   (defn answer44
     [index nums]
     nil)
@@ -32,6 +33,7 @@
 ; https://4clojure.oxal.org/#/problem/70
 
 (comment
+  ;; sort-by
   (defn answer70
     [text]
     [])
